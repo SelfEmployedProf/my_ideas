@@ -1,0 +1,4 @@
+Hi there... 
+I would like to bring in focus the idea of platform independent Chat Room for colleagues in offices.
+Sometimes we don't have access to public sites and even our cellphones.
+This can help users in collaborating without softwares like Lync.
