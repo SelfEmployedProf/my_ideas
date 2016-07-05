@@ -1,0 +1,3 @@
+Hello..
+My idea is to build a software that will help in preserving medical reports of users.
+Most of us usually misplace and then cannot find our old reports.
